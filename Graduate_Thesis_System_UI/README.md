@@ -67,6 +67,5 @@
   ## Notes
 
   - Project report: `databasemgmtsyst-final.docx`
-  - DB schema and reference data: `referans alinacak database finali.docx`
   - Do not commit `node_modules` or `.venv` to GitHub
   
