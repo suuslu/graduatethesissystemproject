@@ -1,0 +1,6 @@
+{
+  "compilerOptions": {
+    "types": ["node"],
+    "jsx": "react-jsx"
+  }
+}
