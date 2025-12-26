@@ -6,7 +6,7 @@
   and institutes. It provides a complete CRUD workflow and a searchable
   interface for structured academic data. See `databasemgmtsyst-final.docx` for
   the project report and documentation.
-
+ 
   ## Course information
 
   - Course: Database Management Systems (DBMS)
